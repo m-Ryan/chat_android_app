@@ -1,7 +1,12 @@
-# chat_android_app
-![输入图片说明]('./show/drawing.gif' "展示图")
-![输入图片说明]('./show/login_chat.gif' "展示图")
-![输入图片说明]('./show/user_info.gif' "展示图")
-![输入图片说明]('./show/article.gif' "展示图")
-### app截图 http://www.maocanhua.cn/works
-### app地址 http://www.maocanhua.cn/work/chatApp/app-release.apk
+<div class="pic">
+    <img src="./show/1.png" alt="" style="width: 144px;height: 240px;">
+    <img src="./show/2.png" alt="" style="width: 144px;height: 240px;">
+    <img src="./show/3.png" alt="" style="width: 144px;height: 240px;">
+    <img src="./show/4.png" alt="" style="width: 144px;height: 240px;">
+</div>
+<div class="pic">
+    <img src="./show/5.png" alt="" style="width: 144px;height: 240px;">
+    <img src="./show/6.png" alt="" style="width: 144px;height: 240px;">
+    <img src="./show/7.png" alt="" style="width: 144px;height: 240px;">
+    <img src="./show/8.png" alt="" style="width: 144px;height: 240px;">
+</div>
