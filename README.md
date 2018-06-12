@@ -16,15 +16,11 @@
     <img src="./show/2.png" alt="" width="24%" />　
     <img src="./show/3.png" alt="" width="24%" />　
     <img src="./show/4.png" alt="" width="24%" />　
-    <img src="./show/5.png" alt="" width="24%" />　
     <img src="./show/6.png" alt="" width="24%" />　
-    <img src="./show/8.png" alt="" width="24%" />　
-    <img src="./show/login_chat.gif" alt="" width="24%" />　
+    <img src="./show/7.png" alt="" width="24%" />　
+    <img src="./show/login.gif" alt="" width="24%" />　
+    <img src="./show/chat.gif" alt="" width="24%" />　
     <img src="./show/article.gif" alt="" width="24%" />　
 </div>
 
 ## 部分录制的mp4在show文件夹，有兴趣可以看看
-
-
-## app地址 http://www.maocanhua.cn/work/chatApp/app-release.apk
-
